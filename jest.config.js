@@ -8,7 +8,7 @@ module.exports = {
   },
   moduleFileExtensions: ['ts', 'js', 'json', 'node'],
   collectCoverage: true,
-  coverageDirectory: 'src/__tests__/coverage',
+  coverageDirectory: 'src/utils/__tests__/coverage',
   coverageReporters: ['text', 'lcov', 'html'],
   coverageThreshold: {
     global: {
