@@ -1,4 +1,4 @@
-import { add, subtract } from '../math';
+import { add, subtract } from '../../math';
 
 describe('Math Utils', () => {
   describe('add', () => {
